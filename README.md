@@ -31,3 +31,11 @@ Skip List has the following Functions:
 
 ## How exactly is a skip list constructed from a series of linked lists?
  - A skip list is built in layers. The bottom layer is an ordinary ordered linked list. ... If the current element is greater than the target, or the search reaches the end of the linked list, the procedure is repeated after returning to the previous element and dropping down vertically to the next lower list.
+ 
+## Team Members:
+ 
+
+ - Saad Ali Hafiz (18B-025-SE-A) (Team Lead)
+ - Abdullah Majeed (18B-073-SE-A)
+ - Zaheer Khatri (18B-001-SE-A)
+
