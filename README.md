@@ -27,3 +27,7 @@ Skip List has the following Functions:
  - Inorder to obtain Randomized level we must call the function `RandomLevel()`
  
 ## Application of Skip List
+ - Skip list are used in distributed applications. In distributed systems, the nodes of skip list represents the computer systems and pointers represent network connection
+
+## How exactly is a skip list constructed from a series of linked lists?
+ - A skip list is built in layers. The bottom layer is an ordinary ordered linked list. ... If the current element is greater than the target, or the search reaches the end of the linked list, the procedure is repeated after returning to the previous element and dropping down vertically to the next lower list.
